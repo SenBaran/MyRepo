@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSTestMaker.ConApp/1.0.0": {
+        "dependencies": {
+          "CSTestMaker.Logic": "1.0.0"
+        },
+        "runtime": {
+          "CSTestMaker.ConApp.dll": {}
+        }
+      },
+      "CSTestMaker.Common/1.0.0": {
+        "runtime": {
+          "CSTestMaker.Common.dll": {}
+        }
+      },
+      "CSTestMaker.Logic/1.0.0": {
+        "dependencies": {
+          "CSTestMaker.Common": "1.0.0"
+        },
+        "runtime": {
+          "CSTestMaker.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSTestMaker.ConApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSTestMaker.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSTestMaker.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

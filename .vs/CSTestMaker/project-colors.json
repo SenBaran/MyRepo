@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe7e1246-59e3-4289-a761-da1fd96fc1ba": {
+      "ProjectGuid": "fe7e1246-59e3-4289-a761-da1fd96fc1ba",
+      "DisplayName": "CSTestMaker.ConApp",
+      "ColorIndex": 0
+    },
+    "38ab240b-cddb-414e-9a56-b234e462a1bc": {
+      "ProjectGuid": "38ab240b-cddb-414e-9a56-b234e462a1bc",
+      "DisplayName": "CSTestMaker.Common",
+      "ColorIndex": 1
+    },
+    "46550a33-3e2b-4a3f-b711-827c389857b1": {
+      "ProjectGuid": "46550a33-3e2b-4a3f-b711-827c389857b1",
+      "DisplayName": "CSTestMaker.Logic",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

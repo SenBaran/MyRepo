@@ -1,0 +1,12 @@
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\bin\Debug\net6.0\CSTestMaker.Common.deps.json
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\bin\Debug\net6.0\CSTestMaker.Common.dll
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\bin\Debug\net6.0\ref\CSTestMaker.Common.dll
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\bin\Debug\net6.0\CSTestMaker.Common.pdb
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\obj\Debug\net6.0\CSTestMaker.Common.csproj.AssemblyReference.cache
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\obj\Debug\net6.0\CSTestMaker.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\obj\Debug\net6.0\CSTestMaker.Common.AssemblyInfoInputs.cache
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\obj\Debug\net6.0\CSTestMaker.Common.AssemblyInfo.cs
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\obj\Debug\net6.0\CSTestMaker.Common.csproj.CoreCompileInputs.cache
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\obj\Debug\net6.0\CSTestMaker.Common.dll
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\obj\Debug\net6.0\ref\CSTestMaker.Common.dll
+C:\Schule - 5BHIF\PROG\Prüfung\CSTestMaker\CSTestMaker.Common\obj\Debug\net6.0\CSTestMaker.Common.pdb
